@@ -4,7 +4,7 @@ A keyboard pcb using the micro controller [rp2040-zero](https://www.waveshare.co
 
 ## Layout
 
-![](https://github.com/calvin-mcd/Kestrel47/blob/main/Images/KLE.png)
+![](https://github.com/calvin-mcd/NEC-50/blob/main/Images/KLE.png)
 
 [Link](http://www.keyboard-layout-editor.com/#/gists/cac78473e6102737aac1babc6c3495a7)
   
