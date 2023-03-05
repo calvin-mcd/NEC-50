@@ -4,4 +4,5 @@
   (lib (name "marbastlib-various")(type "KiCad")(uri "C:/Users/viva-/Documents/GitHub/libraries/marbastlib-main/marbastlib-various.pretty")(options "")(descr ""))
   (lib (name "marbastlib-mx")(type "KiCad")(uri "C:/Users/viva-/Documents/GitHub/libraries/marbastlib-main/marbastlib-mx.pretty")(options "")(descr ""))
   (lib (name "Keebio-Parts")(type "KiCad")(uri "C:/Users/viva-/Documents/GitHub/libraries/Keebio-Parts.pretty")(options "")(descr ""))
+  (lib (name "CherryMX")(type "KiCad")(uri "C:/Users/viva-/Documents/GitHub/libraries/sszczep-switch-libraries/footprints/CherryMX.pretty")(options "")(descr ""))
 )
