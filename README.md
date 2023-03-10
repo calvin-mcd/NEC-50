@@ -5,7 +5,8 @@ A keyboard pcb using the micro controller [rp2040-zero](https://www.waveshare.co
 ## Layout
 
 ![](https://github.com/calvin-mcd/NEC-50/blob/main/Images/KLE.png)
-![](https://github.com/calvin-mcd/NEC-50/blob/main/Images/render.svg)
+![](https://github.com/calvin-mcd/NEC-50/blob/main/Images/top.svg)
+![](https://github.com/calvin-mcd/NEC-50/blob/main/Images/bottom.svg)
 
 [Link](http://www.keyboard-layout-editor.com/#/gists/cac78473e6102737aac1babc6c3495a7)
   
