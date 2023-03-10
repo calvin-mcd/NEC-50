@@ -1,6 +1,6 @@
 # NEC-50
 
-A keyboard pcb using the micro controller [rp2040-zero](https://www.waveshare.com/rp2040-zero.htm) and taking heavy inspiration from the [NEC PC-9801](http://xahlee.info/kbd/nec_m_type_1992.html)
+NEC-50 is a katana stagger keyboard pcb using the micro controller [rp2040-zero](https://www.waveshare.com/rp2040-zero.htm) and taking heavy inspiration from the [NEC PC-9801](http://xahlee.info/kbd/nec_m_type_1992.html)
 
 ## Layout
 
