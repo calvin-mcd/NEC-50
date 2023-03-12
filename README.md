@@ -12,7 +12,7 @@ NEC-50 is a katana stagger keyboard pcb using the micro controller [rp2040-zero]
 
 ## Case
 
-BAonDiscord#7634 has created a custom case for this pcb inspired by the M0110. Still has to be tested!
+BAonDiscord#7634 has created a custom case for this pcb called the N0550 taking inspiration from the M0110. Still has to be tested!
 
 ![](https://github.com/ba-keyboards/N0550/blob/main/images/Case%20-%20M0110%20-%201.png)
 
@@ -38,6 +38,6 @@ This project is released under the GPL v3 License. Please refer to the LICENCE f
 
 big thanks to BAonDiscord#7634 for taking their time to create a unqiue case for something that started out as more of a joke! love the 40s community!
 
-As always big thanks also to the many people who helped me along the way and inspired this board!
+As always big thanks also to the many people who inspired and helped with this board!
 
 Any questions, contact Calvin\#0563 on Discord. 
