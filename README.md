@@ -8,7 +8,7 @@ NEC-50 is a katana stagger keyboard pcb using the micro controller [rp2040-zero]
 ![](https://github.com/calvin-mcd/NEC-50/blob/main/Images/top.svg)
 ![](https://github.com/calvin-mcd/NEC-50/blob/main/Images/bottom.svg)
 
-[Link](http://www.keyboard-layout-editor.com/#/gists/cac78473e6102737aac1babc6c3495a7)
+[Link](http://www.keyboard-layout-editor.com/#/gists/75caf7895b6885905f6ad9112279089a)
 
 ## Case
 
@@ -22,9 +22,10 @@ check out their other amazing cases here: https://ba-keyboards.github.io/
   
 ## Todo
 
-- [ ] order & test pcb
+- [X] order & test pcb
+- [X] create firmware
 - [ ] print & test case
-- [ ] create firmware
+
 
 ## Disclaimer
 
