@@ -4,7 +4,7 @@ NEC-50 is a katana stagger keyboard pcb using the micro controller [rp2040-zero]
 
 ## Layout
 
-![](https://github.com/calvin-mcd/NEC-50/blob/main/Images/KLE1.png)
+![](https://github.com/calvin-mcd/NEC-50/blob/main/Images/KLE2.png)
 ![](https://github.com/calvin-mcd/NEC-50/blob/main/Images/top.svg)
 ![](https://github.com/calvin-mcd/NEC-50/blob/main/Images/bottom.svg)
 
