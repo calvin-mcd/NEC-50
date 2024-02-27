@@ -10,15 +10,23 @@ NEC-50 is a katana stagger keyboard pcb using the micro controller [rp2040-zero]
 
 [Link](http://www.keyboard-layout-editor.com/#/gists/75caf7895b6885905f6ad9112279089a)
 
-## Case
+## Cases
 
-BAonDiscord#7634 has created a custom case for this pcb called the N0550 taking inspiration from the M0110. Still has to be tested!
+There are two cases for the NEC-50 so far:
+
+- BAonDiscord#7634's custom case is called the N0550 and takes inspiration from the M0110.
 
 ![](https://github.com/ba-keyboards/N0550/blob/main/images/Case%20-%20n0550%20-%201.png)
 
 https://github.com/ba-keyboards/N0550
 
 check out their other amazing cases here: https://ba-keyboards.github.io/
+
+- dingusaurusderp's case is a two piece and also supports a weight if desired!
+
+![](https://github.com/ba-keyboards/N0550/blob/main/images/Case_Derp.jpg)
+
+https://www.printables.com/de/model/784448-hotdog-stand-nec-50-case
   
 ## Disclaimer
 
@@ -30,7 +38,7 @@ This project is released under the GPL v3 License. Please refer to the LICENCE f
 
 ## Credits
 
-big thanks to BAonDiscord#7634 for taking their time to create a unqiue case for something that started out as more of a joke! love the 40s community!
+big thanks to both BAonDiscord#7634 and dingusaurusderp for taking their time to create unqiue cases for something that started out as more of a joke! love the 40s community!
 
 also many thanks to haizeus for helping with the KLE and firmware!
 
