@@ -22,7 +22,7 @@ https://github.com/ba-keyboards/N0550
 
 check out their other amazing cases here: https://ba-keyboards.github.io/
 
-- dingusaurusderp's case is a two piece and also supports a weight if desired!
+- dingusaurusderp's case is called the Hotdog stand (lol) and is a two piece and can also support a weight if desired!
 
 ![](https://github.com/calvin-mcd/NEC-50/blob/main/Images/Case_Derp.jpg)
 
