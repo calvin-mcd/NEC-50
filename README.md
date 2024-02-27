@@ -24,7 +24,7 @@ check out their other amazing cases here: https://ba-keyboards.github.io/
 
 - dingusaurusderp's case is a two piece and also supports a weight if desired!
 
-![](https://github.com/ba-keyboards/N0550/blob/main/images/Case_Derp.jpg)
+![](https://github.com/calvin-mcd/NEC-50/blob/main/Images/Case_Derp.jpg)
 
 https://www.printables.com/de/model/784448-hotdog-stand-nec-50-case
   
