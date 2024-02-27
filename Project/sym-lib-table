@@ -5,4 +5,5 @@
   (lib (name "rp2040-zero")(type "KiCad")(uri "C:/Users/viva-/Documents/GitHub/libraries/rp2040-zero/rp2040-zero.kicad_sym")(options "")(descr ""))
   (lib (name "keebio")(type "Legacy")(uri "C:/Users/viva-/Documents/GitHub/libraries/keebio-components/keebio.lib")(options "")(descr ""))
   (lib (name "CherryMX")(type "Legacy")(uri "C:/Users/viva-/Documents/GitHub/libraries/sszczep-switch-libraries/symbols/CherryMX.lib")(options "")(descr ""))
+  (lib (name "kbd")(type "Legacy")(uri "C:/Users/viva-/Documents/GitHub/libraries/kbd/kicad-symbols/kbd.lib")(options "")(descr ""))
 )
